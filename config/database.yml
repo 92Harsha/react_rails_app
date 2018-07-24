@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: react_db1
+  username: scholar
+  password: scholar
+  host: 172.17.0.1
+  port: 32768
